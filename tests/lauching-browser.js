@@ -6,6 +6,7 @@ describe('Launch Google Chrome Browser',()=>{
         const paraBankUrl = 'http://parabank.parasoft.com' 
         browser.url(paraBankUrl)
         
+        browser.
         //browser.pause(5000)
 
         //Example for component visibility and text assertions
