@@ -1,0 +1,10 @@
+{
+    "configurations": [
+    {
+        "command": "npx wdio wdio.conf.js",
+        "name": "Run npm start",
+        "request": "launch",
+        "type": "node-terminal"
+    }
+    ]
+}
